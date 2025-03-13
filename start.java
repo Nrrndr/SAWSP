@@ -123,8 +123,6 @@ public class start {
             high=current;
             }
             if(current.next!=null)current=current.next;
-            
-            
         }
         current=head;
         for (int i=0;i<amount;i++)
